@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-Hi, Welcome to my home, wish I can to be you friend!
+Hi, welcome to my home, I hope I can be your friend!
